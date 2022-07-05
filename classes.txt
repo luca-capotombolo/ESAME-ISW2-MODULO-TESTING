@@ -1,0 +1,11 @@
+ZOOKEEPER:
+org.apache.zookeeper.common.PathUtils
+org.apache.zookeeper.server.DataTree
+
+BOOKKEEPER:
+org.apache.bookkeeper.bookie.BookieImpl
+org.apache.bookkeeper.bookie.BufferedChannel
+
+FASTJSON:
+com.alibaba.json.bvt.parser.OrderedFieldTest
+com.alibaba.json.bvt.parser.TypeUtilsTest
